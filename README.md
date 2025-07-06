@@ -37,6 +37,3 @@ student-management-system/
 ├── /js/ # JavaScript files
 └── /assets/ # Images, icons, etc.
 
-## 🔗 Live Demo
-
-[Click here to open the Student Management System](http://localhost/student-management-system)
